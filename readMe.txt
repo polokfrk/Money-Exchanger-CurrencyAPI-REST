@@ -1,5 +1,5 @@
 [1]---------------------------------------------------------------------------------Creating a virtual environment 
-Move to the target directory and execute the following
+Move to the target directory(where manage.py exists) and execute the following
 
 >>>>>>     python -m venv venv
 
